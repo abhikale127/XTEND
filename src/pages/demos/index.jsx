@@ -82,15 +82,15 @@ const Demos = () => {
             padding: 0 40px;
           }
 
-          .masonery .item-img .tag{
-              position: absolute;
-              top: 15px;
-              right: 15px;
-              padding: 8px 20px;
-              border-radius: 5px;
-              background: #ff0036;
-              color: #fff;
-              font-size: 13px;
+          .masonery .item-img .tag {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            padding: 8px 20px;
+            border-radius: 5px;
+            background: #ff0036;
+            color: #fff;
+            font-size: 13px;
           }
 
           .masonery .item-img .tlinks a {
