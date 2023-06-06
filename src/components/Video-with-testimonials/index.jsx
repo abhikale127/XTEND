@@ -27,7 +27,7 @@ const VideoWithTestimonials = () => {
         className="extra-title wow words chars splitting"
         data-splitting
       >
-        Content dilivery of satelite technology.
+        Content Delivery via Satellite Technology
       </h2>
       <img src="/img/slid/1.png" alt="image" />
     </section>
