@@ -11,6 +11,7 @@ import SkillsCircle from "../../components/Skills-circle";
 import VideoWithTestimonials from "../../components/Video-with-testimonials";
 import LightTheme from "../../layouts/Light";
 import appData from "../../data/app.json";
+import AboutIntro from "../../components/About-intro";
 
 const Homepage2 = () => {
   const navbarRef = React.useRef(null);
@@ -38,6 +39,7 @@ const Homepage2 = () => {
       <IntroWithSlider2 />
       <BlcSec />
       <Services2 />
+
       <VideoWithTestimonials />
 
       {/* <PortfolioCustomColumn column={3} filterPosition="center" /> */}
