@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "CONNECTING",
+      "second": "UNSERVED"
+    },
+    "image": "/img/slid/01.png"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "EDUCATING",
+      "second": "UNDERSERVED"
+    },
+    "image": "/img/slid/03.png"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "ENTERTAINING",
+      "second": "UNSERVED & UNDERSERVED"
+    },
+    "image": "/img/slid/02.png"
+  }
+]
