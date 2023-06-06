@@ -41,7 +41,7 @@ const Footer = ({ noSubBG }) => {
           </div>
         </div>
         <div className="copyrights text-center">
-          <p>© 2023, XTENT</p>
+          <p>© 2023, XTEND</p>
         </div>
       </div>
     </footer>

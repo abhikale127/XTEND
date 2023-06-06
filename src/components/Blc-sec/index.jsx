@@ -9,6 +9,12 @@ const BlcSec = () => {
         <div className="row">
           <div className="col-lg-7">
             <div className="intro md-mb30">
+              <div className="sub-title">
+                <h6>Innovation in Content Delivery</h6>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
               <Split>
                 <h2
                   className="extra-title wow words chars splitting"

@@ -22,6 +22,13 @@ const VideoWithTestimonials = () => {
   };
   return (
     <section className="block-sec">
+      <h2
+        style={{ textAlign: "center" }}
+        className="extra-title wow words chars splitting"
+        data-splitting
+      >
+        Content dilivery of satelite technology.
+      </h2>
       <img src="/img/slid/1.png" alt="image" />
     </section>
   );

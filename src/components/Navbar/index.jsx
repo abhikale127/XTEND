@@ -10,9 +10,7 @@ import {
 } from "../../common/navbar";
 
 const Navbar = ({ nr, theme }) => {
-  React.useEffect(() => {
-    handleSearch();
-  }, []);
+  React.useEffect(() => {}, []);
   return (
     <nav
       ref={nr}
@@ -140,7 +138,7 @@ const Navbar = ({ nr, theme }) => {
               </Link>
             </li>
           </ul>
-          <div className="search">
+          {/* <div className="search">
             <span className="icon pe-7s-search cursor-pointer"></span>
             <div className="search-form text-center custom-font">
               <Formik
@@ -161,7 +159,7 @@ const Navbar = ({ nr, theme }) => {
               </Formik>
               <span className="close pe-7s-close cursor-pointer"></span>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </nav>
