@@ -31,6 +31,15 @@ const Clients1 = ({ theme, subBG }) => {
             alt="image"
             style={{ marginBottom: "1rem" }}
           />
+          <div
+            style={{ display: "flex", justifyContent: "center" }}
+            className="sub-title"
+          >
+            <h6>Vinod Hakhu</h6>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
           <button className="btn-curve btn-color btn-lg">
             <a href="https://www.linkedin.com/in/vinod-cloudsocial/">
               {" "}
@@ -46,6 +55,15 @@ const Clients1 = ({ theme, subBG }) => {
             alt="image"
             style={{ marginBottom: "1rem" }}
           />
+          <div
+            style={{ display: "flex", justifyContent: "center" }}
+            className="sub-title"
+          >
+            <h6>Himanshu Patil</h6>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
           <button className="btn-curve btn-color btn-lg">
             <a href="https://www.linkedin.com/in/himanshu-patil-cloudsocial/">
               {" "}
@@ -57,10 +75,19 @@ const Clients1 = ({ theme, subBG }) => {
           style={{ display: "flex", flexDirection: "column", padding: "1rem" }}
         >
           <img
-            src="/img/slid/himanshu.png"
+            src="/img/slid/rahul.png"
             alt="image"
             style={{ marginBottom: "1rem" }}
           />
+          <div
+            style={{ display: "flex", justifyContent: "center" }}
+            className="sub-title"
+          >
+            <h6>Rahul Raina</h6>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
           <button className="btn-curve btn-color btn-lg">
             <a href="https://www.linkedin.com/in/rahul-raina-a72168a3/">
               {" "}
