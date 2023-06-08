@@ -20,7 +20,7 @@ const Navbar = ({ nr, theme }) => {
     >
       <div className="container">
         <Link href="/">
-          <h4 style={{ color: "white" }}>XTEND</h4>
+          <h4 style={{ color: "white" }}>Xtend</h4>
         </Link>
 
         <button
@@ -102,7 +102,7 @@ const Navbar = ({ nr, theme }) => {
                 </Link>
               </div>
             </li> */}
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link href="#About">
                 <a className="nav-link">About</a>
               </Link>
@@ -132,11 +132,6 @@ const Navbar = ({ nr, theme }) => {
                 </Link>
               </div>
             </li> */}
-            <li className="nav-item">
-              <Link href="#Contact">
-                <a className="nav-link">Contact</a>
-              </Link>
-            </li>
           </ul>
           {/* <div className="search">
             <span className="icon pe-7s-search cursor-pointer"></span>

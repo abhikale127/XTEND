@@ -16,13 +16,13 @@ const BlcSec = () => {
                 <span></span>
               </div>
               <Split>
-                <h2
+                <h4
                   className="extra-title wow words chars splitting"
                   data-splitting
                 >
-                  Catering to the unserved and underserved locations through
+                  Catering to the unserved and underserved locations through Sat
                   Wi-Fi.
-                </h2>
+                </h4>
               </Split>
             </div>
           </div>
