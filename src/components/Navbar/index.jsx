@@ -68,11 +68,6 @@ const Navbar = ({ nr, theme }) => {
                 </Link>
               </div>
             </li> */}
-            <li className="nav-item">
-              <Link href="/">
-                <a className="nav-link">Home</a>
-              </Link>
-            </li>
 
             {/* <li className="nav-item dropdown" onClick={handleDropdown}>
               <span

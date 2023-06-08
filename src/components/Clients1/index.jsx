@@ -57,19 +57,16 @@ const Clients1 = ({ theme, subBG }) => {
           style={{ display: "flex", flexDirection: "column", padding: "1rem" }}
         >
           <img
-            src="/img/slid/rahul.png"
+            src="/img/slid/himanshu.png"
             alt="image"
             style={{ marginBottom: "1rem" }}
           />
-
-          <a href="https://www.linkedin.com/in/rahul-raina-a72168a3/">
-            <button
-              style={{ width: "100%" }}
-              className="btn-curve btn-color btn-lg"
-            >
-              <i className="fab fa-linkedin founder-i"></i> Connect
-            </button>
-          </a>
+          <button className="btn-curve btn-color btn-lg">
+            <a href="https://www.linkedin.com/in/rahul-raina-a72168a3/">
+              {" "}
+              <i className="fab fa-linkedin founder-i"></i> <span>Connect</span>{" "}
+            </a>
+          </button>
         </div>
       </div>
     </section>
