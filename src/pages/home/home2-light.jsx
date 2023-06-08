@@ -39,9 +39,7 @@ const Homepage2 = () => {
       <IntroWithSlider2 />
       <BlcSec />
       <Services2 />
-
       <VideoWithTestimonials />
-
       {/* <PortfolioCustomColumn column={3} filterPosition="center" /> */}
       <Clients1 theme="light" subBG />
       {/* <CallToAction theme="light" img="/img/pattern-light.png" /> */}

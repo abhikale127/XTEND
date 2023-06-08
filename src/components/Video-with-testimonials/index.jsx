@@ -29,7 +29,7 @@ const VideoWithTestimonials = () => {
       >
         Content Delivery via Satellite Technology
       </h2>
-      <img src="/img/slid/1.png" alt="image" />
+      <img src="/img/slid/1.jpg" alt="image" />
     </section>
   );
 };

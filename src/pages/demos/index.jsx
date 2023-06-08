@@ -175,7 +175,7 @@ const Demos = () => {
                         </Link>
                       </div>
                     </div>
-                    <img src="/img/demos/1.png" alt="image" />
+                    <img src="/img/demos/1.jpg" alt="image" />
                   </div>
                   <div className="cont">
                     <h6>Main Demo</h6>

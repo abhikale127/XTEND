@@ -91,7 +91,10 @@ const IntroWithSlider2 = () => {
                               {typeof slide.title === "object" ? (
                                 <>
                                   {slide.title.first}
-                                  <div className="tline">
+                                  <div
+                                    className="tline"
+                                    style={{ fontSize: "4rem" }}
+                                  >
                                     {slide.title.second}
                                   </div>
                                 </>
