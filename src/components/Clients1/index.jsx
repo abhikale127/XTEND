@@ -34,7 +34,7 @@ const Clients1 = ({ theme, subBG }) => {
           <button className="btn-curve btn-color btn-lg">
             <a href="https://www.linkedin.com/in/vinod-cloudsocial/">
               {" "}
-              <span>Connect</span>{" "}
+              <i className="fab fa-linkedin founder-i"></i> <span>Connect</span>{" "}
             </a>
           </button>
         </div>
@@ -47,9 +47,9 @@ const Clients1 = ({ theme, subBG }) => {
             style={{ marginBottom: "1rem" }}
           />
           <button className="btn-curve btn-color btn-lg">
-            <a href="https://www.linkedin.com/in/vinod-cloudsocial/">
+            <a href="https://www.linkedin.com/in/himanshu-patil-cloudsocial/">
               {" "}
-              <span>Connect</span>{" "}
+              <i className="fab fa-linkedin founder-i"></i> <span>Connect</span>{" "}
             </a>
           </button>
         </div>
@@ -67,7 +67,7 @@ const Clients1 = ({ theme, subBG }) => {
               style={{ width: "100%" }}
               className="btn-curve btn-color btn-lg"
             >
-              Connect
+              <i className="fab fa-linkedin founder-i"></i> Connect
             </button>
           </a>
         </div>
