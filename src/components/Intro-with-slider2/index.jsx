@@ -93,7 +93,7 @@ const IntroWithSlider2 = () => {
                                   {slide.title.first}
                                   <div
                                     className="tline"
-                                    style={{ fontSize: "4rem" }}
+                                    style={{ fontSize: "1.5rem" }}
                                   >
                                     {slide.title.second}
                                   </div>

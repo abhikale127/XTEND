@@ -151,7 +151,7 @@ const Services2 = () => {
           >
             <Tooltip
               color="default"
-              content=": The digital divide refers to the gap in access to digital technologies and online resources between different regions and socioeconomic groups. By 
+              content="The digital divide refers to the gap in access to digital technologies and online resources between different regions and socioeconomic groups. By 
               implementing content download through satellite and local WiFi hotspots, educational institutions can take significant steps toward bridging this divide. Providing equal access to 
               educational content empowers students in rural areas and enables them to compete on a more level playing field with their urban counterparts."
               placement="left"
