@@ -41,7 +41,10 @@ const Clients1 = ({ theme, subBG }) => {
             <span></span>
           </div>
           <button className="btn-curve btn-color btn-lg">
-            <a href="https://www.linkedin.com/in/vinod-cloudsocial/">
+            <a
+              target="blank"
+              href="https://www.linkedin.com/in/vinod-cloudsocial/"
+            >
               {" "}
               <i className="fab fa-linkedin founder-i"></i> <span>Connect</span>{" "}
             </a>
@@ -65,7 +68,10 @@ const Clients1 = ({ theme, subBG }) => {
             <span></span>
           </div>
           <button className="btn-curve btn-color btn-lg">
-            <a href="https://www.linkedin.com/in/himanshu-patil-cloudsocial/">
+            <a
+              target="blank"
+              href="https://www.linkedin.com/in/himanshu-patil-cloudsocial/"
+            >
               {" "}
               <i className="fab fa-linkedin founder-i"></i> <span>Connect</span>{" "}
             </a>
@@ -89,7 +95,10 @@ const Clients1 = ({ theme, subBG }) => {
             <span></span>
           </div>
           <button className="btn-curve btn-color btn-lg">
-            <a href="https://www.linkedin.com/in/rahul-raina-a72168a3/">
+            <a
+              target="blank"
+              href="https://www.linkedin.com/in/rahul-raina-a72168a3/"
+            >
               {" "}
               <i className="fab fa-linkedin founder-i"></i> <span>Connect</span>{" "}
             </a>
